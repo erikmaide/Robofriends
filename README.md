@@ -1,5 +1,4 @@
-# robofriends
-Tutorial for udemy course - React + Redux
+# robofriends app built using React & Redux
 
 To run the project:
 
